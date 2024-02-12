@@ -1,0 +1,6 @@
+- user onboarding (personal details, corporate, hobbies, interests)
+- fix a coffeechat
+- organize a coffeechat
+- chat and connect 
+- booking system 
+- notification and reminder system
